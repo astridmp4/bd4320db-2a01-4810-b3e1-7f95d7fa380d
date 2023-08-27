@@ -1,0 +1,177 @@
+{
+    "name": "Manifest",
+    "class": "Manifest",
+    "children": [
+        {
+            "name": "Chunk",
+            "id": "82f9c5a0-6e44-4c23-9916-3c0a9a7169d3",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 0
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/82f9c5a0-6e44-4c23-9916-3c0a9a7169d3"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "3e523f44-6edc-4245-9e7f-603ff641d06c",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 1
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/3e523f44-6edc-4245-9e7f-603ff641d06c"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "2755cac4-ae3e-4fbb-9986-9ce277b5a8d0",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 2
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/2755cac4-ae3e-4fbb-9986-9ce277b5a8d0"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "c8d9d5f5-dfe8-41e3-955f-2bddff481cfa",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 3
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/c8d9d5f5-dfe8-41e3-955f-2bddff481cfa"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "5298dee2-6fe9-49d6-b0c6-c2ba0f3c3981",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 4
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/5298dee2-6fe9-49d6-b0c6-c2ba0f3c3981"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "eed2c949-5bb6-4292-9729-3972449d1698",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 5
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/eed2c949-5bb6-4292-9729-3972449d1698"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "4a69fc55-afd7-420b-98db-78cae196a749",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 6
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/4a69fc55-afd7-420b-98db-78cae196a749"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "8ada21d1-d205-4d65-a5a4-67c5658d3e11",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 7
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/8ada21d1-d205-4d65-a5a4-67c5658d3e11"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "01fe571a-6bbf-46c4-9551-3937e2bdfd4c",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 8
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/01fe571a-6bbf-46c4-9551-3937e2bdfd4c"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "c4c7bd8a-6884-4d5e-a620-f7bcaeaf6f82",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 9
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/c4c7bd8a-6884-4d5e-a620-f7bcaeaf6f82"
+                }
+            }
+        },
+        {
+            "name": "Chunk",
+            "id": "b6cc05cd-1463-4a76-8534-da741f774284",
+            "class": "Chunk",
+            "attributes": {
+                "index": {
+                    "type": "number",
+                    "value": 10
+                },
+                "path": {
+                    "type": "string",
+                    "value": "chunks/b6cc05cd-1463-4a76-8534-da741f774284"
+                }
+            }
+        }
+    ],
+    "attributes": {
+        "date": {
+            "type": "string",
+            "value": "2023-08-27T00:09:56.753Z"
+        }
+    }
+}
